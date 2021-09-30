@@ -1,0 +1,20 @@
+#noce{
+    background-color:cyan;
+}
+body{
+    background-repeat: no-repeat;
+    background-size:1369px 800px;
+    font-family: fantasy;
+}
+#NO{
+    color: darkblue;
+    font-size: 50px;
+}
+#output{
+background: white;
+border-radius: 10px;
+border-top: 10px solid darkblue;
+padding: 10px;
+float: none;
+text-align: left;
+}

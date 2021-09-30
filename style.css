@@ -1,0 +1,44 @@
+#leftBox {
+    float: left;
+  }
+  #rightBox {
+    float: right;
+  }
+  .container {
+    width:600px; 
+    height: 250px;
+  }
+  body{
+    background-image:url("BOI.jpg") ;
+    background-repeat:no-repeat;
+    background-size: 1330px 300px;
+    background-position-x: 50%;
+    background-color:cornflowerblue;
+    background-position-y: 10px;
+}
+  #W{
+    font-size: 50px;
+    font-weight: bold;
+    color:whitesmoke;
+  }
+  #T{
+    color: whitesmoke;
+    font-family: Agency FB;
+  }
+  #L{
+    font-style: italic;
+    font-size: 40px;
+    color:whitesmoke;
+  }
+  #leftBox{      
+    background-color: rgb(156, 187, 247);
+    text-align: center;
+    float: none;
+    border-radius: 10px;
+  }
+  #rightBox{
+    background-color: rgb(156, 187, 247);
+    text-align: center;
+    float: none;
+    border-radius: 10px;
+  }
